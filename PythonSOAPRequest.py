@@ -12,8 +12,8 @@ body = """<?xml version="1.0" encoding="utf-8"?>
 xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
  <soap:Header>
  <ValidationSoapHeader xmlns="http://soap.alertafiscalintranet.com.br">
- <Id>4500</Id>
- <Token>d2b8a6046256447396b7f0de30d8bfd5</Token>
+ <Id>00</Id>
+ <Token>0000000000000000000000000000000000000</Token>
  </ValidationSoapHeader>
  </soap:Header>
  <soap:Body>

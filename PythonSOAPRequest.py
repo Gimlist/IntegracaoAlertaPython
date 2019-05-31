@@ -23,9 +23,7 @@ xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
 
 response = requests.post(url,data=body,headers=headers)
 
-response
-
-response. content
+response.content
 
 http = urllib3.PoolManager()
 
